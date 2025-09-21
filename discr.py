@@ -1,3 +1,4 @@
+#2 задание
 a=float(input("a = "))
 b=float(input("b = "))
 c=float(input("c1 = "))
@@ -19,3 +20,4 @@ else:
     x1=(-b+discr**0.5)/2*a
     x2=(-b-discr**0.5)/2*a
     print("Уравнение имеет 2 комплексных числа: ", x1, " и ", x2, ". D = ", discr)
+
